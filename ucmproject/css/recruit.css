@@ -1,0 +1,17 @@
+/* CSS Document */
+
+
+/*****************************
+form used for admission application
+******************************/
+form.ucmForm {}
+
+td blockquote {margin-left:5.0em; margin-bottom:.8em;}
+
+th.ucmForm {  color:#ffffff; background: #c81f25; border: 1px solid #ffffff; padding:5px 5px 5px 5px; border-radius: 0px 10px 10px 0;  /* Standard */
+    -o-border-radius: 0px 5px 5px 0; /* Opera 10.x */
+    -moz-border-radius: 0px 5px 5px 0; /* Mozilla/Firefox */
+    -icab-border-radius: 0px 5px 5px 0; /* iCab */
+    -khtml-border-radius: 0px 5px 5px 0; /* KHTML/Konqueror */
+    -webkit-border-radius: 0px 5px 5px 0;}
+	
